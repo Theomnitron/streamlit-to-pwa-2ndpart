@@ -3,7 +3,7 @@
   "name": "PWA-ed",
   "icons": [
     {
-      "src": "favicon_512.png",
+      "src": "android-launcherion-512-512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
